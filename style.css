@@ -1,0 +1,13 @@
+@font-face
+{
+	font-family: digital;
+	src:url(digital.ttf);
+}
+#clock
+{
+	font-size: 200px;
+	font-family: digital;
+	width: 900px;
+	margin: 200px;
+	text-align: center;
+}
